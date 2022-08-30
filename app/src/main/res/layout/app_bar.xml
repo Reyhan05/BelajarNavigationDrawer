@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainActivity">
 
-    <com.google.android.material.appbar.AppBarLayout
+    <!--<com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:theme="@style/Theme.BelajarNavDrawer.AppBarOverlay">
@@ -18,7 +18,7 @@
             android:background="#FF9800"
             app:popupTheme="@style/Theme.BelajarNavDrawer.PopupOverlay"/>
 
-    </com.google.android.material.appbar.AppBarLayout>
+    </com.google.android.material.appbar.AppBarLayout>-->
 
         <include layout="@layout/content"/>
 
